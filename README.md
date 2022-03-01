@@ -10,8 +10,11 @@ Building multi-institutional, interdisciplinary, and modelling capacity is a key
 <img src="NCLIM fig.png" alt="Alt text" title="Optional title">
 
 Collaborators: 
+![image](https://user-images.githubusercontent.com/12434114/156224291-fb3c16e0-5114-4bb6-b7c7-2d089ceaa774.png)
+
 
 Funding:
+
 ![image](https://user-images.githubusercontent.com/12434114/156223822-bc79639e-efce-4c18-a4de-cbc3d0293405.png)
 
 
