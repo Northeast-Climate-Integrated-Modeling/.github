@@ -13,13 +13,13 @@ Building multi-institutional, interdisciplinary, and modelling capacity is a key
 
 Core objectives include: 
 
-##Builiding a Community of Practice##
+## Builiding a Community of Practice ##
 INSERT LINKS
 
-##Building an Integrated Modeling Framework##
+## Building an Integrated Modeling Framework ##
 INSERT LINKS
 
-##Application in Research Track Stock Assessments##
+## Application in Research Track Stock Assessments ##
 
 Atlantic cod
 
