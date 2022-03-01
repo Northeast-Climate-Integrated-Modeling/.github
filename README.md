@@ -21,7 +21,7 @@ INSERT LINKS
 
 ## Application in Research Track Stock Assessments 
 
-###Gulf of Maine Cod Climate-Informed Stock Assessment
+### NCLIM: Gulf of Maine Cod Climate-Informed Stock Assessment
 
 Atlantic cod is an iconic species in the Northeast U.S. that historically supported large domestic and foreign fisheries, but is now considered overfished with overfishing occurring. Difficulties rebuilding the stock may be hindered by recent decreases in productivity and increased mortality attributed to warming ocean temperatures. Incorporating time-varying and temperature-dependent natural mortality has been shown to improve stock assessment diagnostics for this species, but there is room for further exploration of climate links to population dynamics. The NCLIM framework will be leveraged to integrate climate considerations into the research track stock assessment process for Gulf of Maine cod.
 
@@ -31,11 +31,17 @@ Project Goals
 *Compare candidate and status quo assessments
 *Share findings with WG members and synthesize climate context for WG report (TOR1)
 
+### NCLIM: American Plaice Climate-Informed Stock Assessment
 
-American plaice
+American plaice is a commercially important flatfish in the Northeast U.S. and Canada that is considered rebuilt.  In recent years plaice have shifted further offshore and into deeper water, this shift is expected to continue with likely negative effects on the stock as ocean temperatures warm and suitable habitat contracts. Temperature has been shown to influence plaice distribution, depth, growth rate, recruitment, and possibly maturity, while other climate drivers (e.g. NAO, AMO) have been linked to changing recruits per spawner and distribution. Although population dynamics and distribution have clear links to climate dynamics, to date these influences have not been incorporated into stock assessments for plaice nor has this knowledge been used to provide estimates of climate uncertainties that may benefit decision-making processes. The NCLIM framework will be leveraged to integrate climate considerations into the research track stock assessment process for American plaice. 
 
+Project Goals
+Identify key climate drivers for American plaice and proposed links to stock dynamics
+Develop and test candidate assessments using the NCLIM framework in collaboration with the American Plaice Assessment Working Group (WG)
+Compare candidate and status quo assessments
+Share findings with WG members and synthesize climate context for WG report (TOR1)
 
-###Black Sea Bass Climate-Informed Stock Assessment
+### NCLIM: Black Sea Bass Climate-Informed Stock Assessment
 
 Black sea bass is a commercially and recreationally important species in the New England and Mid-Atlantic regions that has shown increased productivity in response to warming temperatures. The species has exhibited a northward shift in response to climate that is  captured by divergent state surveys (increases in northern surveys and decreases in the south) but the coastwide survey suggests variability without trend. The single-area stock assessment proposed in 2012 struggled to replicate these divergent survey trends and the model ultimately did not pass review. Subsequent work found that two-area models exhibited improved fit to survey data, and there is interest in further exploring approaches to account for climate-driven species distribution shifts in stock assessments. The NCLIM framework will be leveraged to integrate climate considerations into the research track stock assessment process for black sea bass.
 
