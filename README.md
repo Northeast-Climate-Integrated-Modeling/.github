@@ -21,11 +21,29 @@ INSERT LINKS
 
 ## Application in Research Track Stock Assessments 
 
-Atlantic cod
+###Gulf of Maine Cod Climate-Informed Stock Assessment
+
+Atlantic cod is an iconic species in the Northeast U.S. that historically supported large domestic and foreign fisheries, but is now considered overfished with overfishing occurring. Difficulties rebuilding the stock may be hindered by recent decreases in productivity and increased mortality attributed to warming ocean temperatures. Incorporating time-varying and temperature-dependent natural mortality has been shown to improve stock assessment diagnostics for this species, but there is room for further exploration of climate links to population dynamics. The NCLIM framework will be leveraged to integrate climate considerations into the research track stock assessment process for Gulf of Maine cod.
+
+Project Goals
+*Explore assessment models that allow for time-varying processes
+*Develop and test candidate assessments using the NCLIM framework in collaboration with the GOM Cod Assessment Working Group (WG)
+*Compare candidate and status quo assessments
+*Share findings with WG members and synthesize climate context for WG report (TOR1)
+
 
 American plaice
 
-Black sea bass
+
+###Black Sea Bass Climate-Informed Stock Assessment
+
+Black sea bass is a commercially and recreationally important species in the New England and Mid-Atlantic regions that has shown increased productivity in response to warming temperatures. The species has exhibited a northward shift in response to climate that is  captured by divergent state surveys (increases in northern surveys and decreases in the south) but the coastwide survey suggests variability without trend. The single-area stock assessment proposed in 2012 struggled to replicate these divergent survey trends and the model ultimately did not pass review. Subsequent work found that two-area models exhibited improved fit to survey data, and there is interest in further exploring approaches to account for climate-driven species distribution shifts in stock assessments. The NCLIM framework will be leveraged to integrate climate considerations into the research track stock assessment process for black sea bass.
+
+Project Goals
+*Explore assessment models that can account for changing resource distribution and productivity
+*Develop and test candidate assessments using the NCLIM framework in collaboration with the Black Sea Bass Assessment Working Group (WG)
+*Compare candidate and status quo assessments
+*Share findings with WG members and synthesize climate context for WG report (TOR1)
 
 Collaborators: 
 ![image](https://user-images.githubusercontent.com/12434114/156226016-8ff981b8-0677-4dd6-bd03-ebbac9265313.png)
