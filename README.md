@@ -15,8 +15,10 @@ Core objectives include:
 
 Builiding a Community of Practice
 INSERT LINKS
+
 Building an Integrated Modeling Framework
 INSERT LINKS
+
 Application in Research Track Stock Assessments
 INSERT LINKS
 
