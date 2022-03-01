@@ -11,8 +11,11 @@ Building multi-institutional, interdisciplinary, and modelling capacity is a key
 
 <img src="NCLIM fig.png" alt="Alt text" title="Optional title">
 
+Core objectives include: 
 Builiding a Community of Practice
-NOAA LINK
+Building an Integrated Modeling Framework
+Application in Research Track Stock Assessments
+
 
 Collaborators: 
 ![image](https://user-images.githubusercontent.com/12434114/156226016-8ff981b8-0677-4dd6-bd03-ebbac9265313.png)
