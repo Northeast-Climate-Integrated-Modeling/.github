@@ -7,4 +7,5 @@ Beyond biological and ecosystem impacts, changing climate can directly impact th
 
 Building multi-institutional, interdisciplinary, and modelling capacity is a key to the development and testing of adaptive management responses. The NCLIM team identified research track  stock assessments as an initial path to integrate regional climate research with fisheries management processes. One goal of this approach is to identify climate uncertainties and their impacts on regional fisheries management and to develop candidate climate-informed stock assessments to supplement or replace current methods and provide improved advice. Management Strategy Evaluation (MSE) is a key tool that can leverage NCLIM’s modeling framework to account for climate uncertainties, test current and candidate climate-informed assessments, and evaluate stakeholder-defined objectives to support fishery decision making. 
 
-![My Image](NCLIM fig.png)
+![My Image](../images/NCLIM fig.png)
+
