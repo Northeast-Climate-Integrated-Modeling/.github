@@ -19,7 +19,7 @@ INSERT LINKS
 ##Building an Integrated Modeling Framework
 INSERT LINKS
 
-##Application in Research Track Stock Assessments
+**Application in Research Track Stock Assessments**
 
 Atlantic cod
 
