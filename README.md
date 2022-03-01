@@ -20,7 +20,9 @@ Building an Integrated Modeling Framework
 INSERT LINKS
 
 Application in Research Track Stock Assessments
-INSERT LINKS
+Atlantic cod
+American plaice
+Black sea bass
 
 Collaborators: 
 ![image](https://user-images.githubusercontent.com/12434114/156226016-8ff981b8-0677-4dd6-bd03-ebbac9265313.png)
