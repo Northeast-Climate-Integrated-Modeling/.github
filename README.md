@@ -64,6 +64,6 @@ Project Goals:
 
 ![image](https://user-images.githubusercontent.com/12434114/156223822-bc79639e-efce-4c18-a4de-cbc3d0293405.png)
 
-###Contact:
+### Contact:
 
 Lisa Kerr (lkerr@gmri.org)
