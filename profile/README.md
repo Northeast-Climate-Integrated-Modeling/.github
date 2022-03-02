@@ -6,7 +6,7 @@ The Northeast Climate Integrated Modeling project (NCLIM) is an interdisciplinar
 Commercial and recreational fisheries are economic and cultural staples for many communities in the Northeast U.S., but changing environmental conditions call into question the long-term viability of these fisheries. Observed shifts in species distributions and productivity have already been linked to ocean warming and these impacts are expected to grow over time as waters in the Northwest Atlantic continue to warm at a rate four times the global average. There is an increasing need to understand how environmental shifts impact fisheries and develop adaptive strategies for fisheries to continue operating in the future.
 
 <p align="center">
-<img src="file:///.github/profile/NCLIM_Overview_v2.png" alt="Overview figure">
+<img src="/.github/profile/NCLIM_Overview_v2.png" alt="Overview figure">
 </p>
 
 Beyond biological and ecosystem impacts, changing climate can directly impact the efficacy of existing fisheries management efforts. Stock assessments make data-informed assumptions about biological processes (e.g. growth, recruitment, and mortality) and harvesting characteristics (e.g. survey and fishery catchability) to evaluate stock status. Failure to identify and integrate climate impacts on stock and fishery dynamics into management procedures can result in biased estimates of stock status and ineffective harvest control rules. There is a need to identify when and how climate influences stock and fishery dynamics and to explore candidate management procedures that account for climate impacts more explicitly. 
