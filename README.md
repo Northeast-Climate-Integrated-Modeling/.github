@@ -18,9 +18,7 @@ Join the Northeast Climate-Fisheries Seminar Series
 
 This seminar series will focus on sharing climate-fisheries research in the U.S. Northeast region with the goal of building broader awareness of efforts across research groups and facilitating collaboration. We invite presentations on research projects that are either in progress or recently completed.  We anticipate talks will cover a variety of themes, including: 1) advances in ocean observations, modeling, and prediction 2) mechanistic studies of climate/environmental impacts on marine fish and invertebrates, 3) marine species habitat, distribution, and abundance modeling, 4) climate enhanced stock assessments and fisheries management, and 5) climate informed studies on human dimensions and economics. 
 
-The series is held on the last Thursday of each month from noon to 1pm.
-
-Remote Access through Google Meet: https://meet.google.com/paw-jhrb-nzr
+The series is held on the last Thursday of each month from noon to 1pm. Remote Access through Google Meet: https://meet.google.com/paw-jhrb-nzr
 
 
 ## Building an Integrated Modeling Framework 
