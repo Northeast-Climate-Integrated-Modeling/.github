@@ -26,6 +26,12 @@ The series is held on the last Thursday of each month from noon to 1pm. Remote A
 ## Building an Integrated Modeling Framework 
 INSERT LINKS
 
+### Project repositories:
+- [groundfish-MSE](https://github.com/Northeast-Climate-Integrated-Modeling/groundfish-MSE): A Management Strategy Evaluation Framework for New England Groundfish
+- [SSRTWG](https://github.com/timjmiller/SSRTWG): Repository for the State-Space Research Track Working Group
+- [WHAM](https://github.com/timjmiller/wham): Woods Hole Assessment Model (WHAM) repository
+- [PlaiceWG2021](https://github.com/ahart1/PlaiceWG2021): Repository for WHAM modeling of American plaice in support of 2021-2022 research track stock assessment
+
 ## Application in Research Track Stock Assessments 
 
 ### NCLIM: Gulf of Maine Cod Climate-Informed Stock Assessment
