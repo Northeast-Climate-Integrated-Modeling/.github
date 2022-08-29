@@ -40,7 +40,7 @@ Atlantic cod is an iconic species in the Northeast U.S. that historically suppor
 
 Project Goals:
 * Explore assessment models that allow for time-varying processes
-* Develop and test candidate assessments using the NCLIM framework in collaboration with the GOM Cod Assessment Working Group (WG)
+* Develop and test candidate assessments using the NCLIM framework in collaboration with the [Research Track Working Group for Atlantic Cod](https://www.fisheries.noaa.gov/event/research-track-working-group-2023-improving-assessments-atlantic-cod)
 * Compare candidate and status quo assessments
 * Share findings with WG members and synthesize climate context for WG report (TOR1)
 
@@ -51,8 +51,16 @@ American plaice is a commercially important flatfish in the Northeast U.S. and C
 Project Goals:
 * Identify key climate drivers for American plaice and proposed links to stock dynamics
 * Develop and test candidate assessments using the NCLIM framework in collaboration with the American Plaice Assessment Working Group (WG)
-* Compare candidate and status quo assessments
+* Compare candidate and status quo assessments (Woods Hole Assessment Model code available [here](https://github.com/ahart1/PlaiceWG2021))
 * Share findings with WG members and synthesize climate context for WG report (TOR1)
+
+Key climate-informed products and working papers:
+* [Working paper: Spatio-temporal dynamics of American plaice (Hippoglossoides platessoides) in US
+2 waters of the northwest Atlantic](https://apps-nefsc.fisheries.noaa.gov/saw/sasi/uploads/WP12_Plaice_VAST-v2.pdf)
+* [Working paper: Ecosystem profile of American plaice](https://apps-nefsc.fisheries.noaa.gov/saw/sasi/uploads/WP14%20Behan%20etal%20Ecosystem%20Profile.pdf)
+* [Working paper: Environmental influences on American Plaice stock dynamics](https://apps-nefsc.fisheries.noaa.gov/saw/sasi/uploads/WP16%20Behan%20_%20Kerr%20Ecosystem%20Drivers.pdf)
+* [Working paper: A state-space assessment of American plaice using the Woods Hole Assessment Model (WHAM)](https://apps-nefsc.fisheries.noaa.gov/saw/sasi/uploads/WP18%20Hart%20etal%20WHAM.pdf)
+* All assessment products and results can be found on the [NEFSC Stock Assessment Support Information portal](https://apps-nefsc.fisheries.noaa.gov/saw/sasi/sasi_report_options.php) for the 2022 American plaice Research Track Assessment 
 
 ### NCLIM: Black Sea Bass Climate-Informed Stock Assessment
 
