@@ -27,6 +27,7 @@ The series is held on the last Thursday of each month from noon to 1pm. Remote A
 The NCLIM modeling framework aims to integrate: 1) global climate models, 2) regional oceanographic models, 3) ecosystem and population models, and 4) human dimensions models. Our development of an integrated modeling framework has progressed during the initial phase of NCLIM and leverages several aspects of ongoing research, including advances in regional ocean modeling (i.e., NOAA-GFDL MOM6 model), a next generation stock assessment (i.e., Woods Hole Assessment Model, WHAM), and an existing management strategy evaluation framework (i.e., Groundfish-MSE). We have also made significant progress on development of a dynamic range model that simulates a spatially explicit age structured population that can emulate temperature dependence of life processes (e.g., recruitment, natural mortality, and dispersal). The framework is built for testing the robustness of fisheries management strategies to climate change impacts, including shifting species distribution and changes in fish productivity. 
 
 ### Project repositories:
+- [NOAA-GFDL MOM6 model](https://github.com/NOAA-GFDL/MOM6-examples)
 - [groundfish-MSE](https://github.com/Northeast-Climate-Integrated-Modeling/groundfish-MSE): A Management Strategy Evaluation Framework for New England Groundfish
 - [SSRTWG](https://github.com/timjmiller/SSRTWG): Repository for the State-Space Research Track Working Group
 - [WHAM](https://github.com/timjmiller/wham): Woods Hole Assessment Model (WHAM) repository
