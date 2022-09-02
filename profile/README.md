@@ -28,7 +28,7 @@ The NCLIM modeling framework aims to integrate: 1) global climate models, 2) reg
 
 ### Project repositories:
 - [NOAA-GFDL MOM6 model](https://github.com/NOAA-GFDL/MOM6-examples): Modular Ocean Model 6 development
-- [groundfish-MSE](https://github.com/Northeast-Climate-Integrated-Modeling/groundfish-MSE): A Management Strategy Evaluation Framework for New England Groundfish
+- [Groundfish-MSE](https://github.com/Northeast-Climate-Integrated-Modeling/groundfish-MSE): A Management Strategy Evaluation Framework for New England Groundfish
 - [SSRTWG](https://github.com/timjmiller/SSRTWG): Repository for the State-Space Research Track Working Group
 - [WHAM](https://github.com/timjmiller/wham): Woods Hole Assessment Model (WHAM) repository
 - [PlaiceWG2021](https://github.com/ahart1/PlaiceWG2021): Repository for WHAM modeling of American plaice in support of 2021-2022 research track stock assessment
