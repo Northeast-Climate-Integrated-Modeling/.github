@@ -1,4 +1,4 @@
-# NCLIM
+# NCLIM-Northeast Climate Integrated Modeling Initiative
 ![image](https://user-images.githubusercontent.com/12434114/156226599-91123e8e-d605-4dd7-80c1-eab3260702da.png)
 
 The Northeast Climate Integrated Modeling project (NCLIM) is an interdisciplinary effort to support climate-informed fisheries decision making in the Northeast U.S. The project seeks to build on national efforts to incorporate climate science into fishery decision making (e.g. ACLIM in the Bering Sea, regional IEAs) by building a regional community of practice to support integrated climate, ecosystem, socio-economic, and fishery modeling. Our goal is to leverage the resulting model framework to provide scientific support to fishery and marine resource decision makers grappling with current and future climate consequences. 
