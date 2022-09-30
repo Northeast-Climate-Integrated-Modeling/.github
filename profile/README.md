@@ -33,6 +33,7 @@ The NCLIM modeling framework aims to integrate: 1) global climate models, 2) reg
 - [WHAM](https://github.com/timjmiller/wham): Woods Hole Assessment Model (WHAM) repository
 - [PlaiceWG2021](https://github.com/ahart1/PlaiceWG2021): Repository for WHAM modeling of American plaice in support of 2021-2022 research track stock assessment
 - [Plaice environmental drivers](https://github.com/Jamie-Behan/AM_Plaice_environmental_drivers): Repository for modeling of American plaice in support of 2021-2022 research track stock assessment
+- [Indicators] (https://github.com/Jamie-Behan/Indicator_Visualizations)
 
 ## Application in Research Track Stock Assessments 
 
