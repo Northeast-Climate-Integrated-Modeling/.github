@@ -1,9 +1,14 @@
-# NCLIM-Northeast Climate Integrated Modeling Initiative
+<div align='center'><h1> NCLIM-Northeast Climate Integrated Modeling Initiative</h1></div>
+
 ![image](https://user-images.githubusercontent.com/12434114/156226599-91123e8e-d605-4dd7-80c1-eab3260702da.png)
 
-The Northeast Climate Integrated Modeling initiative (NCLIM) is an interdisciplinary effort to support climate-informed fisheries decision making in the Northeast U.S. The project seeks to build on national efforts to incorporate climate science into fishery decision making (e.g. ACLIM in the Bering Sea, regional IEAs) by building a regional community of practice to support integrated climate, ecosystem, socio-economic, and fishery modeling. Our goal is to leverage the resulting model framework to provide scientific support to fishery and marine resource decision makers grappling with current and future climate consequences. 
+## Overview
+The Northeast Climate Integrated Modeling initiative (NCLIM) is an interdisciplinary effort to support climate-informed fisheries decision making in the Northeast U.S. The project seeks to build on national efforts to incorporate climate science into fishery decision making (e.g. ACLIM in the Bering Sea, regional IEAs) by building a regional community of practice to support integrated climate, ecosystem, socio-economic, and fishery modeling. Our goal is to leverage the resulting model framework to provide scientific support to fishery and marine resource decision makers grappling with current and future climate consequences.
 
-Commercial and recreational fisheries are economic and cultural staples for many communities in the Northeast U.S., but changing environmental conditions call into question the long-term viability of these fisheries. Observed shifts in species distributions and productivity have already been linked to ocean warming and these impacts are expected to grow over time as waters in the Northwest Atlantic continue to warm at a rate four times the global average. There is an increasing need to understand how environmental shifts impact fisheries and develop adaptive strategies for fisheries to continue operating in the future.
+<!-- start Background section -->
+<details>
+<summary><b> Background </b></summary>
+Commercial and recreational fisheries are economic and cultural staples for many communities in the Northeast U.S., but changing environmental conditions call into question the long-term viability of these fisheries. Observed shifts in species distributions and productivity have already been linked to ocean warming and these impacts are expected to grow over time as waters in the Northwest Atlantic continue to warm at a rate four times the global average. There is an increasing need to understand how environmental shifts impact fisheries and develop adaptive strategies for fisheries to continue operating in the future.  
 
 <p align="center">
 <img src="https://github.com/Northeast-Climate-Integrated-Modeling/.github/blob/main/profile/NCLIM_Overview_v3.png" alt="Overview figure">
@@ -12,20 +17,43 @@ Commercial and recreational fisheries are economic and cultural staples for many
 Beyond biological and ecosystem impacts, changing climate can directly impact the efficacy of existing fisheries management efforts. Stock assessments make data-informed assumptions about biological processes (e.g. growth, recruitment, and mortality) and harvesting characteristics (e.g. survey and fishery catchability) to evaluate stock status. Failure to identify and integrate climate impacts on stock and fishery dynamics into management procedures can result in biased estimates of stock status and ineffective harvest control rules. There is a need to identify when and how climate influences stock and fishery dynamics and to explore candidate management procedures that account for climate impacts more explicitly. 
 
 Building multi-institutional, interdisciplinary, and modelling capacity is a key to the development and testing of adaptive management responses. The NCLIM team identified research track  stock assessments as an initial path to integrate regional climate research with fisheries management processes. One goal of this approach is to identify climate uncertainties and their impacts on regional fisheries management and to develop candidate climate-informed stock assessments to supplement or replace current methods and provide improved advice. Management Strategy Evaluation (MSE) is a key tool that can leverage NCLIM’s modeling framework to account for climate uncertainties, test current and candidate climate-informed assessments, and evaluate stakeholder-defined objectives to support fishery decision making. 
+</details>
+<!-- end Background section -->
 
-Core objectives include: 
+### Core Objectives of NCLIM Include: 
+<!-- start Building a Community of Practice section -->
+<details>
+<summary><b> :one:Building a Community of Practice </b></summary>
+  
+#### Join the Northeast Climate-Fisheries Seminar Series
 
-## Building a Community of Practice 
-Join the Northeast Climate-Fisheries Seminar Series
+This seminar series will focus on sharing climate-fisheries research in the U.S. Northeast region with the goal of building broader awareness of efforts across research groups and facilitating collaboration. We invite presentations on research projects that are either in progress or recently completed.  We anticipate talks will cover a variety of themes, including: 
+1) advances in ocean observations, modeling, and prediction
+2) mechanistic studies of climate/environmental impacts on marine fish and invertebrates
+3) marine species habitat, distribution, and abundance modeling,
+4) climate enhanced stock assessments and fisheries management
+5) climate informed studies on human dimensions and economics. 
 
-This seminar series will focus on sharing climate-fisheries research in the U.S. Northeast region with the goal of building broader awareness of efforts across research groups and facilitating collaboration. We invite presentations on research projects that are either in progress or recently completed.  We anticipate talks will cover a variety of themes, including: 1) advances in ocean observations, modeling, and prediction 2) mechanistic studies of climate/environmental impacts on marine fish and invertebrates, 3) marine species habitat, distribution, and abundance modeling, 4) climate enhanced stock assessments and fisheries management, and 5) climate informed studies on human dimensions and economics. 
+The series is held on the last Thursday of each month from noon to 1pm. Remote Access through Google Meet:   
+https://meet.google.com/paw-jhrb-nzr
+</details>
+<!-- end Building a Community of Practice section -->
 
-The series is held on the last Thursday of each month from noon to 1pm. Remote Access through Google Meet: https://meet.google.com/paw-jhrb-nzr
+<!-- start Building an Integrated Modeling Framework section -->
+<details>
+<summary><b> :two:Building an Integrated Modeling Framework </b></summary>
 
+The NCLIM modeling framework aims to integrate: 
+1) global climate models
+2) regional oceanographic models
+3) ecosystem and population models
+4) human dimensions models  
 
-## Building an Integrated Modeling Framework 
-The NCLIM modeling framework aims to integrate: 1) global climate models, 2) regional oceanographic models, 3) ecosystem and population models, and 4) human dimensions models. Our development of an integrated modeling framework has progressed during the initial phase of NCLIM and leverages several aspects of ongoing research, including advances in regional ocean modeling (i.e., NOAA-GFDL MOM6 model), a next generation stock assessment (i.e., Woods Hole Assessment Model, WHAM), and an existing management strategy evaluation framework (i.e., Groundfish-MSE). We have also made significant progress on development of a dynamic range model that simulates a spatially explicit age structured population that can emulate temperature dependence of life processes (e.g., recruitment, natural mortality, and dispersal). The framework is built for testing the robustness of fisheries management strategies to climate change impacts, including shifting species distribution and changes in fish productivity. 
+Our development of an integrated modeling framework has progressed during the initial phase of NCLIM and leverages several aspects of ongoing research, including advances in regional ocean modeling (i.e., NOAA-GFDL MOM6 model), a next generation stock assessment (i.e., Woods Hole Assessment Model, WHAM), and an existing management strategy evaluation framework (i.e., Groundfish-MSE). We have also made significant progress on development of a dynamic range model that simulates a spatially explicit age structured population that can emulate temperature dependence of life processes (e.g., recruitment, natural mortality, and dispersal). The framework is built for testing the robustness of fisheries management strategies to climate change impacts, including shifting species distribution and changes in fish productivity. 
 
+</details>
+<!-- end Building an Integrated Modeling Framework section -->
+  
 ### Project repositories:
 - [NOAA-GFDL MOM6 model](https://github.com/NOAA-GFDL/MOM6-examples): Modular Ocean Model 6 development
 - [Groundfish-MSE](https://github.com/Northeast-Climate-Integrated-Modeling/groundfish-MSE): A Management Strategy Evaluation Framework for New England Groundfish
