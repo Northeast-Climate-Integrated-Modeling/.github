@@ -71,7 +71,7 @@ Our development of an integrated modeling framework has progressed during the in
 - [WHAM](https://github.com/timjmiller/wham): Woods Hole Assessment Model (WHAM) repository
 - [PlaiceWG2021](https://github.com/ahart1/PlaiceWG2021): Repository for WHAM modeling of American plaice in support of 2021-2022 research track stock assessment
 - [Plaice environmental drivers](https://github.com/Jamie-Behan/AM_Plaice_environmental_drivers): Repository for modeling of American plaice in support of 2021-2022 research track stock assessment
-- [Indicators-Stock Dynamics](https://github.com/Jamie-Behan/Indicator_Visualizations)
+- [Indicator-Visualizations](https://github.com/Jamie-Behan/Indicator_Visualizations):RShiny user interface for visualizing an integrated ecosystem assessment focused on characterizing the status and trends of the fishery ecosystem in Maine’s coastal waters
 
 ## Application in Research Track Stock Assessments
 
@@ -144,6 +144,136 @@ Black sea bass is a commercially and recreationally important species in the New
 <img src="https://user-images.githubusercontent.com/12434114/156223822-bc79639e-efce-4c18-a4de-cbc3d0293405.png" width = "350" alt = "Funder logo">
 </details>
 <!-- end Funding section -->
+
+<hr style="border:2px solid black">
+
+## NCLIM Phase 2
+
+NCLIM phase 2 focuses on the integrated modeling initiative to meet ocean decision challenges in a changing Northeast U.S. shelf ecosystem. In Phase 2, we will significant advances in the integrated modeling framework. The addition of new models will add the capacity for testing ecosystem approaches to fisheries management, ecosystem-based fisheries management, and climate adaptation scenarios. These additions will add more realistic and responsive fleet dynamics as well as allow us to quantify the socioeconomic benefits of alternative management approaches to inform our understanding of impacts on fishing communities.
+
+### Objectives of NCLIM Phase 2 Include: 
+<!-- start Increase regional capacity for climate-informed decision-making in fisheries section -->
+<details>
+<summary><b> :one:Increase regional capacity for climate-informed decision-making in fisheries </b></summary>
+  
+#### Increasing regional capacity through:
+1) Expanding NCLIM team expertise
+2) Growing the NCLIM community of practice through stakeholder engagement
+3) Co-developing climate adaptation strategy scenarios
+
+</details>
+<!-- end Increase regional capacity for climate-informed decision-making in fisheries -->
+
+<!-- start Expand the integrated modeling framework to test climate adaptation strategies and their socioeconomic impacts section -->
+<details>
+<summary><b> :two:Expand the integrated modeling framework to test climate adaptation strategies and their socioeconomic impacts </b></summary>
+
+#### Expanding the integrated modeling framework by: 
+1) Linking climate, ecosystem, and human dimensions models
+2) Simulation testing the performance of climate adaptation strategies
+3) Developing models to support climate adaptation scenarios  
+
+</details>
+<!-- end Expand the integrated modeling framework to test climate adaptation strategies and their socioeconomic impacts section -->
+
+<!-- start Advance approaches to account for climate change in tactical fisheries management section -->
+<details>
+<summary><b> :three:Advance approaches to account for climate change in tactical fisheries management </b></summary>
+
+#### Advancing approaches by:
+1) Integrating climate impacts on fish stock dynamics into stock assessment
+2) Defining biological reference points in a dynamic environment
+3) Exploring novel approaches to account for climate risk in setting catch advice
+  
+</details>
+<!-- end Advance approaches to account for climate change in tactical fisheries management section -->
+
+### Project repositories:
+- [Yellowtail Flounder RT](): Repository for modeling of Yellowtail Flounder in support of 2023-2024 research track stock assessment
+- [Atlantic Herring RT](): Repository for modeling of Atlantic Herring in support of 2023-2025 research track stock assessment
+- [NRCC Assessment Research Steering Committee](): This committee looks at future research track stock assessments and explores new methods and data to develop new or improve existing stock assessments
+
+## Applications
+
+<!-- start Oceans section -->
+<details>
+<summary><b> Oceans </b></summary>
+<br>
+
+</details>
+<!-- end Oceans section -->
+
+<!-- start Ecosystem Based Fisheries Management (EBFM) section -->
+<details>
+<summary><b> Ecosystem Based Fisheries Management (EBFM) </b></summary>
+<br>
+
+</details>
+<!-- end Ecosystem Based Fisheries Management (EBFM) section -->
+
+<!-- start Climate-Integrated Stock Assessment section -->
+<details>
+<summary><b> Climate-Integrated Stock Assessment </b></summary>
+<br>
+
+</details>
+<!-- end Climate-Integrated Stock Assessment section -->
+
+<!-- start Human Dimensions section -->
+<details>
+<summary><b> Human Dimensions </b></summary>
+<br>
+
+</details>
+<!-- end Human Dimensions section -->
+
+<!-- start Reference Points section -->
+<details>
+<summary><b> Reference Points </b></summary>
+<br>
+
+</details>
+<!-- end Reference Points section -->
+
+<!-- start Climate Adaptation section -->
+<details>
+<summary><b> Climate Adaptation </b></summary>
+<br>
+
+</details>
+<!-- end Climate Adaptation section -->
+
+<!-- start Ensemble Modeling section -->
+<details>
+<summary><b> Ensemble Modeling </b></summary>
+<br>
+
+</details>
+<!-- end Ensemble Modeling section -->
+
+## Collaborators and Funding: 
+<!-- start Collaborators section -->
+<details>
+<summary><b> Phase 2 Collaborators </b></summary>
+
+![image](https://user-images.githubusercontent.com/12434114/156226016-8ff981b8-0677-4dd6-bd03-ebbac9265313.png)
+</details>
+<!-- end Collaborators section -->
+
+<!-- start Funding section -->
+<details>
+<summary><b> Phase 2 Funding </b></summary>
+<br>
+This work is funded by the NOAA Climate and Fisheries Adaptation Program (CAFA) with additional funding from the New England Fishery Management Council and the Cooperative Institute for the North Atlantic Region (CINAR)  
+<br>
+  
+<img src="https://user-images.githubusercontent.com/12434114/156223822-bc79639e-efce-4c18-a4de-cbc3d0293405.png" width = "350" alt = "Funder logo">
+
+
+</details>
+<!-- end Funding section -->
+
+<hr style="border:2px solid black">
 
 ### Contact:
 
