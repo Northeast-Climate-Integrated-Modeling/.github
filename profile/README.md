@@ -256,7 +256,7 @@ NCLIM phase 2 focuses on the integrated modeling initiative to meet ocean decisi
 <details>
 <summary><b> Phase 2 Collaborators </b></summary>
   
-![NCLIMphase2](https://github.com/Northeast-Climate-Integrated-Modeling/.github/assets/62613926/886899e6-43e5-450e-ab8e-f700c309cb20)
+![NCLIMphase2](https://github.com/Northeast-Climate-Integrated-Modeling/.github/assets/62613926/b8af6a3e-06b8-4d67-ab06-745fa13042f3)
 
 </details>
 <!-- end Collaborators section -->
