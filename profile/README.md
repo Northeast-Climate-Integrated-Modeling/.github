@@ -21,7 +21,9 @@ Beyond biological and ecosystem impacts, changing climate can directly impact th
 
 <hr style="border:2px solid black">
 
-## NCLIM Phase 1
+<!-- start NCLIM Phase 1 section -->
+<details>
+<summary><b> NCLIM Phase 1 (2020-2023)</b></summary>
 
 Building multi-institutional, interdisciplinary, and modelling capacity is a key to the development and testing of adaptive management responses. The NCLIM team identified research track  stock assessments as an initial path to integrate regional climate research with fisheries management processes. One goal of this approach is to identify climate uncertainties and their impacts on regional fisheries management and to develop candidate climate-informed stock assessments to supplement or replace current methods and provide improved advice. Management Strategy Evaluation (MSE) is a key tool that can leverage NCLIM’s modeling framework to account for climate uncertainties, test current and candidate climate-informed assessments, and evaluate stakeholder-defined objectives to support fishery decision making.
 
@@ -70,7 +72,7 @@ Our development of an integrated modeling framework has progressed during the in
 - [SSRTWG](https://github.com/timjmiller/SSRTWG): Repository for the State-Space Research Track Working Group
 - [WHAM](https://github.com/timjmiller/wham): Woods Hole Assessment Model (WHAM) repository
 - [PlaiceWG2021](https://github.com/ahart1/PlaiceWG2021): Repository for WHAM modeling of American plaice in support of 2021-2022 research track stock assessment
-- [Plaice environmental drivers](https://github.com/Jamie-Behan/AM_Plaice_environmental_drivers): Repository for modeling of American plaice in support of 2021-2022 research track stock assessment
+- [Plaice environmental drivers](https://github.com/Jamie-Behan/AM_Plaice_environmental_drivers): Repository for exploratory modeling of environmental effects on American plaice stock dynamics in support of 2021-2022 research track stock assessment
 - [Indicator-Visualizations](https://github.com/Jamie-Behan/Indicator_Visualizations):RShiny user interface for visualizing an integrated ecosystem assessment focused on characterizing the status and trends of the fishery ecosystem in Maine’s coastal waters
 
 ## Application in Research Track Stock Assessments
@@ -145,9 +147,14 @@ Black sea bass is a commercially and recreationally important species in the New
 </details>
 <!-- end Funding section -->
 
+</details>
+<!-- end NCLIM phase 1 section -->
+
 <hr style="border:2px solid black">
 
-## NCLIM Phase 2
+<!-- start NCLIM Phase 2 section -->
+<details>
+<summary><b> NCLIM Phase 2 (2023-2026)</b></summary>
 
 NCLIM phase 2 focuses on the integrated modeling initiative to meet ocean decision challenges in a changing Northeast U.S. shelf ecosystem. In Phase 2, we will make significant advances in the integrated modeling framework. The addition of new models will add the capacity for testing ecosystem approaches to fisheries management, ecosystem-based fisheries management, and climate adaptation scenarios. These additions will add more realistic and responsive fleet dynamics as well as allow us to quantify the socioeconomic benefits of alternative management approaches to inform our understanding of impacts on fishing communities.
 
@@ -318,6 +325,9 @@ This work is funded by the NOAA Climate and Fisheries Adaptation Program (CAFA) 
 
 </details>
 <!-- end Funding section -->
+
+</details>
+<!-- end NCLIM phase 2 section -->
 
 <hr style="border:2px solid black">
 
