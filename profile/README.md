@@ -149,7 +149,7 @@ Black sea bass is a commercially and recreationally important species in the New
 
 ## NCLIM Phase 2
 
-NCLIM phase 2 focuses on the integrated modeling initiative to meet ocean decision challenges in a changing Northeast U.S. shelf ecosystem. In Phase 2, we will significant advances in the integrated modeling framework. The addition of new models will add the capacity for testing ecosystem approaches to fisheries management, ecosystem-based fisheries management, and climate adaptation scenarios. These additions will add more realistic and responsive fleet dynamics as well as allow us to quantify the socioeconomic benefits of alternative management approaches to inform our understanding of impacts on fishing communities.
+NCLIM phase 2 focuses on the integrated modeling initiative to meet ocean decision challenges in a changing Northeast U.S. shelf ecosystem. In Phase 2, we will make significant advances in the integrated modeling framework. The addition of new models will add the capacity for testing ecosystem approaches to fisheries management, ecosystem-based fisheries management, and climate adaptation scenarios. These additions will add more realistic and responsive fleet dynamics as well as allow us to quantify the socioeconomic benefits of alternative management approaches to inform our understanding of impacts on fishing communities.
 
 ### Objectives of NCLIM Phase 2 Include: 
 <!-- start Increase regional capacity for climate-informed decision-making in fisheries section -->
@@ -198,15 +198,23 @@ NCLIM phase 2 focuses on the integrated modeling initiative to meet ocean decisi
 <!-- start Oceans section -->
 <details>
 <summary><b> Oceans </b></summary>
-<br>
-
+  
+#### Coupled Global Climate and Regional Ocean Circulation Models 
+Project Leads: V. Saba amd E. Curchitser
 </details>
 <!-- end Oceans section -->
 
 <!-- start Ecosystem Based Fisheries Management (EBFM) section -->
 <details>
 <summary><b> Ecosystem Based Fisheries Management (EBFM) </b></summary>
-<br>
+
+#### Simulation Testing the Performance of EBFM Strategies 
+Project Leads: G. Fay, L. Kerr, S. Large
+
+This project aims to compare the performance of the following within the Georges Bank region, using Hydra as an operating model:
+1) Single species management: status quo stock assessment and management with no consideration of climate impacts in the assessment or in the estimation of reference points
+2) Single species-EAFM: climate-informed assessment and management which accounts for non-stationarity and/or climate drivers of stock dynamics and allows for dynamic biological reference points
+3) EBFM: assessment and management that accounts for species interactions and harvest  management based on species-complex reference points (i.e., ceilings/floor)
 
 </details>
 <!-- end Ecosystem Based Fisheries Management (EBFM) section -->
@@ -214,15 +222,22 @@ NCLIM phase 2 focuses on the integrated modeling initiative to meet ocean decisi
 <!-- start Climate-Integrated Stock Assessment section -->
 <details>
 <summary><b> Climate-Integrated Stock Assessment </b></summary>
-<br>
 
+Project Leads: L. Kerr, T. Miller, J. Deroba, S. Cadrin, A. Hansell
 </details>
 <!-- end Climate-Integrated Stock Assessment section -->
 
 <!-- start Human Dimensions section -->
 <details>
 <summary><b> Human Dimensions </b></summary>
-<br>
+  
+#### Developing a fully coupled, agent-based economic model that assesses the response of the fleet (i.e., firm) to changing species availability
+Project Leads: M-Y Lee, A. Birchenback
+#### Research Questions:
+1) How will fishing fleets respond to a changing climate and changing species availability in terms of potential adaptation strategies, including targeting, timing, and diversification strategies?
+2) How will fishing fleets respond to changing management (e.g., ACL changes that affect quote prices)?
+3) How will changes in climate and management exacerbate or mitigate economic inequality of fishery participants?
+4) Which communities will gain, and which will lose as the distribution of fish stocks changes?
 
 </details>
 <!-- end Human Dimensions section -->
@@ -230,7 +245,20 @@ NCLIM phase 2 focuses on the integrated modeling initiative to meet ocean decisi
 <!-- start Reference Points section -->
 <details>
 <summary><b> Reference Points </b></summary>
+  
+#### Simulation testing the performance of alternative methods for defining reference points under climate change
+Project Leads: L. Kerr, J. Weidenmann, J. Deroba, S. Cadrin
+
+#### Workshop: Defining Biological Reference Points (BPRs) in a Dynamic Northeast U.S. Maring Environment
+Location UMass Darthmouth, SMAST
 <br>
+When: January 8-9, 2024
+
+#### Workshop Objectives:
+1) Identify need to redefine reference points in a changing ecosystem
+2) Review existing approaches to defining biological reference points
+3) Evaluation of approaches to defining BRPs in other areas of the US and globally
+4) Synthesize recommendations for estimating reference points for stocks in our changing ecosystem
 
 </details>
 <!-- end Reference Points section -->
@@ -238,7 +266,14 @@ NCLIM phase 2 focuses on the integrated modeling initiative to meet ocean decisi
 <!-- start Climate Adaptation section -->
 <details>
 <summary><b> Climate Adaptation </b></summary>
-<br>
+
+#### Using stakeholder feedback to inform the design of climate adaptation scenarios for simulation testing
+Project Leads: K. Mills, M. Cutler
+
+The goals of this projects are to:
+1) Characterize climate adaptation strategies employed in the Northeast U.S. fisheries system and document how fishers and communities are adapting to a changling climate
+2) Inform the development of future climate adaptation scenarios that will be quantitatively evaluated through simulation testing
+3) Evaluate the effectiveness of potential adaptation strategies for specific climate impacts and fishery contexts
 
 </details>
 <!-- end Climate Adaptation section -->
@@ -246,7 +281,17 @@ NCLIM phase 2 focuses on the integrated modeling initiative to meet ocean decisi
 <!-- start Ensemble Modeling section -->
 <details>
 <summary><b> Ensemble Modeling </b></summary>
-<br>
+  
+#### Accounting for climate risk in catch advice
+Project Leads: T. Miller, L. Kerr
+
+Ensemble modeling provides an alternative approach for accounting for uncertainty by addressing structural uncertainty in the assessment through combining multiple models’ predictions into an ensemble set.
+This approach is a departure from the current paradigm of selecting the “best” model for use in generating advice.
+In the context of research track stock assessments, we are increasingly exploring multiple formulations of assessments, including models incorporating time-varying
+dynamics with linkages to ecosystem covariates, but still are constrained to put forward a single “best” model for use in setting catch advice. 
+Ensemble modeling can provide an opportunity for diverse representations of the dynamics of fish stocks in setting fisheries catch advice. We will use simulation testing to explore the following questions:
+* Does using the weighted catch advice for the “best” model provide better catch advice?
+* Does using the weighted catch advice across candidate models provide better catch advice?
 
 </details>
 <!-- end Ensemble Modeling section -->
