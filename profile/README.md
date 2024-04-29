@@ -172,7 +172,7 @@ Project Leads: M-Y Lee, A. Birchenback
 #### Simulation testing the performance of alternative methods for defining reference points under climate change
 Project Leads: L. Kerr, J. Weidenmann, J. Deroba, S. Cadrin
 
-#### Workshop: Defining Biological Reference Points (BPRs) in a Dynamic Northeast U.S. Maring Environment
+#### Workshop: Defining Biological Reference Points (BPRs) in a Dynamic Northeast U.S. Marine Environment
 <br>
 Held: January 8-9, 2024, UMass Dartmouth, SMAST
 
