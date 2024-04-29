@@ -170,17 +170,19 @@ Project Leads: M-Y Lee, A. Birchenback
 <summary><b> Reference Points </b></summary>
   
 #### Simulation testing the performance of alternative methods for defining reference points under climate change
-Project Leads: L. Kerr, J. Weidenmann, J. Deroba, S. Cadrin
+Project Leads: L. Kerr, J. Weidenmann, J. Deroba, S. Cadrin, Jesse, J.
 
 #### Workshop: Defining Biological Reference Points (BPRs) in a Dynamic Northeast U.S. Marine Environment
 <br>
-Held: January 8-9, 2024, UMass Dartmouth, SMAST
+Climate change poses new challenges to sustainable fisheries management and the definition of biological reference points is a key management challenge. A critical question in estimating reference points is how to appropriately characterize stock productivity, which is typically assumed to be stationary over time, but this assumption may be violated by climate effects. Traditional methods need to be reconsidered to reflect non-stationarity in stock dynamics and accurately represent the current and anticipated future productivity of the stock, but dynamic reference points could have unintended consequences for the stock.
 
-#### Workshop Objectives:
-1) Identify need to redefine reference points in a changing ecosystem
-2) Review existing approaches to defining biological reference points
-3) Evaluation of approaches to defining BRPs in other areas of the US and globally
-4) Synthesize recommendations for estimating reference points for stocks in our changing ecosystem
+Best practices for defining reference points in the context of climate change are still being developed, so we organized a two-day workshop in the Northeast US to 
+1) Characterize the need to redefine reference points
+2) Review existing approaches to defining reference points
+3) Evaluate alternative approaches to defining reference points
+4) Synthesize recommendations
+
+Attendees included federal stock assessment, ecosystem and social scientists, New England and Mid-Atlantic Fishery Management Council staff, Scientific and Statistical Committee members, as well as state, nonprofit and university regional experts. Workshop participants made recommendations on when and how to revise reference points as well as practical limitations. There was a recognized need to identify both system-wide (evidence across multiple ecosystem components) and stock-specific changes to support decision-making on when to revise reference points. Participants recommended both short-term (work within current approaches) and long-term (consider new methods) solutions. Practical limitations about who, how, and when to redefine reference points within the science-management process were acknowledged, and participants agreed that collaboration between science and management is needed to find meaningful solutions. The expert recommendations synthesized from this workshop provide timely and effective advice to advance climate-informed fisheries management.
 
 </details>
 <!-- end Reference Points section -->
