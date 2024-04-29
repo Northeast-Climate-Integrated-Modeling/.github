@@ -173,9 +173,8 @@ Project Leads: M-Y Lee, A. Birchenback
 Project Leads: L. Kerr, J. Weidenmann, J. Deroba, S. Cadrin
 
 #### Workshop: Defining Biological Reference Points (BPRs) in a Dynamic Northeast U.S. Maring Environment
-Location UMass Darthmouth, SMAST
 <br>
-When: January 8-9, 2024
+Held: January 8-9, 2024, UMass Dartmouth, SMAST
 
 #### Workshop Objectives:
 1) Identify need to redefine reference points in a changing ecosystem
