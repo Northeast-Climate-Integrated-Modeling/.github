@@ -22,8 +22,8 @@ Beyond biological and ecosystem impacts, changing climate can directly impact th
 <hr style="border:2px solid black">
 
 <!-- start NCLIM Phase 1 section -->
-<details>
-<summary><b> NCLIM Phase 1 (2020-2023)</b></summary>
+
+## NCLIM Phase 1 (2020-2023)
 
 Building multi-institutional, interdisciplinary, and modelling capacity is a key to the development and testing of adaptive management responses. The NCLIM team identified research track  stock assessments as an initial path to integrate regional climate research with fisheries management processes. One goal of this approach is to identify climate uncertainties and their impacts on regional fisheries management and to develop candidate climate-informed stock assessments to supplement or replace current methods and provide improved advice. Management Strategy Evaluation (MSE) is a key tool that can leverage NCLIM’s modeling framework to account for climate uncertainties, test current and candidate climate-informed assessments, and evaluate stakeholder-defined objectives to support fishery decision making.
 
@@ -66,7 +66,7 @@ Our development of an integrated modeling framework has progressed during the in
 </details>
 <!-- end Building an Integrated Modeling Framework section -->
   
-### Project repositories:
+### NCLIM Project repositories:
 - [NOAA-GFDL MOM6 model](https://github.com/NOAA-GFDL/MOM6-examples): Modular Ocean Model 6 development
 - [Groundfish-MSE](https://github.com/Northeast-Climate-Integrated-Modeling/groundfish-MSE): A Management Strategy Evaluation Framework for New England Groundfish
 - [SSRTWG](https://github.com/timjmiller/SSRTWG): Repository for the State-Space Research Track Working Group
@@ -130,31 +130,13 @@ Black sea bass is a commercially and recreationally important species in the New
 </details>
 <!-- end Black Sea Bass Climate-Informed Stock Assessment section -->
 
-## Collaborators and Funding: 
-<!-- start Collaborators section -->
-<details>
-<summary><b> Phase 1 Collaborators </b></summary>
-
-![image](https://user-images.githubusercontent.com/12434114/156226016-8ff981b8-0677-4dd6-bd03-ebbac9265313.png)
-</details>
-<!-- end Collaborators section -->
-
-<!-- start Funding section -->
-<details>
-<summary><b> Phase 1 Funding </b></summary>
-<br>
-<img src="https://user-images.githubusercontent.com/12434114/156223822-bc79639e-efce-4c18-a4de-cbc3d0293405.png" width = "350" alt = "Funder logo">
-</details>
-<!-- end Funding section -->
-
 </details>
 <!-- end NCLIM phase 1 section -->
 
 <hr style="border:2px solid black">
 
 <!-- start NCLIM Phase 2 section -->
-<details>
-<summary><b> NCLIM Phase 2 (2023-2026)</b></summary>
+## NCLIM Phase 2 (2023-2026)
 
 NCLIM phase 2 focuses on the integrated modeling initiative to meet ocean decision challenges in a changing Northeast U.S. shelf ecosystem. In Phase 2, we will make significant advances in the integrated modeling framework. The addition of new models will add the capacity for testing ecosystem approaches to fisheries management, ecosystem-based fisheries management, and climate adaptation scenarios. These additions will add more realistic and responsive fleet dynamics as well as allow us to quantify the socioeconomic benefits of alternative management approaches to inform our understanding of impacts on fishing communities.
 
@@ -305,16 +287,13 @@ Ensemble modeling can provide an opportunity for diverse representations of the 
 
 ## Collaborators and Funding: 
 <!-- start Collaborators section -->
-<details>
-<summary><b> Phase 2 Collaborators </b></summary>
+<summary><b> NCLIM Collaborators </b></summary>
   
 ![NCLIMphase2](https://github.com/Northeast-Climate-Integrated-Modeling/.github/assets/62613926/b8af6a3e-06b8-4d67-ab06-745fa13042f3)
 
-</details>
 <!-- end Collaborators section -->
 
 <!-- start Funding section -->
-<details>
 <summary><b> Phase 2 Funding </b></summary>
 <br>
 This work is funded by the NOAA Climate and Fisheries Adaptation Program (CAFA) with additional funding from the New England Fishery Management Council and the Cooperative Institute for the North Atlantic Region (CINAR)  
@@ -323,14 +302,12 @@ This work is funded by the NOAA Climate and Fisheries Adaptation Program (CAFA) 
 <img src="https://user-images.githubusercontent.com/12434114/156223822-bc79639e-efce-4c18-a4de-cbc3d0293405.png" width = "350" alt = "Funder logo">
 
 
-</details>
 <!-- end Funding section -->
 
-</details>
 <!-- end NCLIM phase 2 section -->
 
 <hr style="border:2px solid black">
 
 ### Contact:
 
-Lisa Kerr (lkerr@gmri.org)
+Lisa Kerr (lisa.kerr1@maine.edu)
