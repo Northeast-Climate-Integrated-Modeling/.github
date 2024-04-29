@@ -112,6 +112,8 @@ NCLIM phase 2 focuses on the integrated modeling initiative to meet ocean decisi
 </details>
 <!-- end Advance approaches to account for climate change in tactical fisheries management section -->
 
+<hr style="border:2px solid black">
+
 ## Applications
 
 <!-- start Oceans section -->
@@ -128,6 +130,8 @@ Project Leads: V. Saba amd E. Curchitser
 <summary><b> Ecosystem Based Fisheries Management (EBFM) </b></summary>
 
 #### Simulation Testing the Performance of EBFM Strategies 
+<img align="right" src="https://i.ibb.co/Vv42bdS/NCLIM-simulation-testing2.png" width="275" alt="My Image">
+
 Project Leads: G. Fay, L. Kerr, S. Large
 
 This project aims to compare the performance of the following within the Georges Bank region, using Hydra as an operating model:
@@ -216,18 +220,7 @@ Ensemble modeling can provide an opportunity for diverse representations of the 
 <!-- end Ensemble Modeling section -->
 <!-- end NCLIM phase 2 section -->
 
-### NCLIM Project Repositories:
-- [Atlantic Herring RT](): Repository for modeling of Atlantic Herring in support of 2023-2025 research track stock assessment
-- [Groundfish-MSE](https://github.com/Northeast-Climate-Integrated-Modeling/groundfish-MSE): A Management Strategy Evaluation Framework for New England Groundfish
-- [Indicator-Visualizations](https://github.com/Jamie-Behan/Indicator_Visualizations):RShiny user interface for visualizing an integrated ecosystem assessment focused on characterizing the status and trends of the fishery ecosystem in Maine’s coastal waters
-- [NOAA-GFDL MOM6 model](https://github.com/NOAA-GFDL/MOM6-examples): Modular Ocean Model 6 development
-- [NRCC Assessment Research Steering Committee](): This committee looks at future research track stock assessments and explores new methods and data to develop new or improve existing stock assessments
-- [Plaice environmental drivers](https://github.com/Jamie-Behan/AM_Plaice_environmental_drivers): Repository for exploratory modeling of environmental effects on American plaice stock dynamics in support of 2021-2022 research track stock assessment
-- [PlaiceWG2021](https://github.com/ahart1/PlaiceWG2021): Repository for WHAM modeling of American plaice in support of 2021-2022 research track stock assessment
-- [SSRTWG](https://github.com/timjmiller/SSRTWG): Repository for the State-Space Research Track Working Group
-- [WHAM](https://github.com/timjmiller/wham): Woods Hole Assessment Model (WHAM) repository
-- [Yellowtail Flounder RT](): Repository for modeling of Yellowtail Flounder in support of 2023-2024 research track stock assessment
-
+<hr style="border:2px solid black">
 
 ## Application in Research Track Stock Assessments
 
@@ -298,6 +291,22 @@ Yellowtail flounder (Limanda ferruginea) inhabits continental shelf waters from 
 <br>  
 </details>
 <!-- end Yellowtail Flounder Climate-Informed Stock Assessment section -->
+
+<hr style="border:2px solid black">
+
+### NCLIM Project Repositories:
+- Atlantic Herring RT: Repository for modeling of Atlantic Herring in support of 2023-2025 research track stock assessment (Coming soon)
+- [Groundfish-MSE](https://github.com/Northeast-Climate-Integrated-Modeling/groundfish-MSE): A Management Strategy Evaluation Framework for New England Groundfish
+- [Indicator-Visualizations](https://github.com/Jamie-Behan/Indicator_Visualizations):RShiny user interface for visualizing an integrated ecosystem assessment focused on characterizing the status and trends of the fishery ecosystem in Maine’s coastal waters
+- [NOAA-GFDL MOM6 model](https://github.com/NOAA-GFDL/MOM6-examples): Modular Ocean Model 6 development
+- NRCC Assessment Research Steering Committee: This committee looks at future research track stock assessments and explores new methods and data to develop new or improve existing stock assessments
+- [Plaice environmental drivers](https://github.com/Jamie-Behan/AM_Plaice_environmental_drivers): Repository for exploratory modeling of environmental effects on American plaice stock dynamics in support of 2021-2022 research track stock assessment
+- [PlaiceWG2021](https://github.com/ahart1/PlaiceWG2021): Repository for WHAM modeling of American plaice in support of 2021-2022 research track stock assessment
+- [SSRTWG](https://github.com/timjmiller/SSRTWG): Repository for the State-Space Research Track Working Group
+- [WHAM](https://github.com/timjmiller/wham): Woods Hole Assessment Model (WHAM) repository
+- Yellowtail Flounder RT: Repository for modeling of Yellowtail Flounder in support of 2023-2024 research track stock assessment (Coming soon)
+
+<hr style="border:2px solid black">
 
 </details>
 
