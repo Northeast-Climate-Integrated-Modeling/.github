@@ -66,71 +66,6 @@ Our development of an integrated modeling framework has progressed during the in
 </details>
 <!-- end Building an Integrated Modeling Framework section -->
   
-### NCLIM Project repositories:
-- [NOAA-GFDL MOM6 model](https://github.com/NOAA-GFDL/MOM6-examples): Modular Ocean Model 6 development
-- [Groundfish-MSE](https://github.com/Northeast-Climate-Integrated-Modeling/groundfish-MSE): A Management Strategy Evaluation Framework for New England Groundfish
-- [SSRTWG](https://github.com/timjmiller/SSRTWG): Repository for the State-Space Research Track Working Group
-- [WHAM](https://github.com/timjmiller/wham): Woods Hole Assessment Model (WHAM) repository
-- [PlaiceWG2021](https://github.com/ahart1/PlaiceWG2021): Repository for WHAM modeling of American plaice in support of 2021-2022 research track stock assessment
-- [Plaice environmental drivers](https://github.com/Jamie-Behan/AM_Plaice_environmental_drivers): Repository for exploratory modeling of environmental effects on American plaice stock dynamics in support of 2021-2022 research track stock assessment
-- [Indicator-Visualizations](https://github.com/Jamie-Behan/Indicator_Visualizations):RShiny user interface for visualizing an integrated ecosystem assessment focused on characterizing the status and trends of the fishery ecosystem in Maine’s coastal waters
-
-## Application in Research Track Stock Assessments
-
-<!-- start Gulf of Maine Cod Climate-Informed Stock Assessment section -->
-<details>
-<summary><b> Gulf of Maine Cod Climate-Informed Stock Assessment </b></summary>
-<br>
-Atlantic cod is an iconic species in the Northeast U.S. that historically supported large domestic and foreign fisheries, but is now considered overfished with overfishing occurring. Difficulties rebuilding the stock may be hindered by recent decreases in productivity and increased mortality attributed to warming ocean temperatures. Incorporating time-varying and temperature-dependent natural mortality has been shown to improve stock assessment diagnostics for this species, but there is room for further exploration of climate links to population dynamics. The NCLIM framework will be leveraged to integrate climate considerations into the research track stock assessment process for Gulf of Maine cod.
-
-#### Project Goals:
-* Explore assessment models that allow for time-varying processes
-* Develop and test candidate assessments using the NCLIM framework in collaboration with the [Research Track Working Group for Atlantic Cod](https://www.fisheries.noaa.gov/event/research-track-working-group-2023-improving-assessments-atlantic-cod)
-* Compare candidate and status quo assessments
-* Share findings with WG members and synthesize climate context for WG report (TOR1)
-<br> 
-</details>
-<!-- end Gulf of Maine Cod Climate-Informed Stock Assessment section -->
-
-<!-- start American Plaice Climate-Informed Stock Assessment Framework section -->
-<details>
-<summary><b> American Plaice Climate-Informed Stock Assessment </b></summary>
-<br>
-American plaice is a commercially important flatfish in the Northeast U.S. and Canada that is considered rebuilt.  In recent years plaice have shifted further offshore and into deeper water, this shift is expected to continue with likely negative effects on the stock as ocean temperatures warm and suitable habitat contracts. Temperature has been shown to influence plaice distribution, depth, growth rate, recruitment, and possibly maturity, while other climate drivers (e.g. NAO, AMO) have been linked to changing recruits per spawner and distribution. Although population dynamics and distribution have clear links to climate dynamics, to date these influences have not been incorporated into stock assessments for plaice nor has this knowledge been used to provide estimates of climate uncertainties that may benefit decision-making processes. The NCLIM framework will be leveraged to integrate climate considerations into the research track stock assessment process for American plaice. 
-
-#### Project Goals:
-* Identify key climate drivers for American plaice and proposed links to stock dynamics
-* Develop and test candidate assessments using the NCLIM framework in collaboration with the American Plaice Assessment Working Group (WG)
-* Compare candidate and status quo assessments (Woods Hole Assessment Model code available [here](https://github.com/ahart1/PlaiceWG2021))
-* Share findings with WG members and synthesize climate context for WG report (TOR1)
-
-Key climate-informed products and working papers:
-* [Working paper: Spatio-temporal dynamics of American plaice (Hippoglossoides platessoides) in US
-2 waters of the northwest Atlantic](https://apps-nefsc.fisheries.noaa.gov/saw/sasi/uploads/WP12_Plaice_VAST-v2.pdf)
-* [Working paper: Ecosystem profile of American plaice](https://apps-nefsc.fisheries.noaa.gov/saw/sasi/uploads/WP14%20Behan%20etal%20Ecosystem%20Profile.pdf)
-* [Working paper: Environmental influences on American Plaice stock dynamics](https://apps-nefsc.fisheries.noaa.gov/saw/sasi/uploads/WP16%20Behan%20_%20Kerr%20Ecosystem%20Drivers.pdf)
-* [Working paper: A state-space assessment of American plaice using the Woods Hole Assessment Model (WHAM)](https://apps-nefsc.fisheries.noaa.gov/saw/sasi/uploads/WP18%20Hart%20etal%20WHAM.pdf)
-* All assessment products and results can be found on the [NEFSC Stock Assessment Support Information portal](https://apps-nefsc.fisheries.noaa.gov/saw/sasi/sasi_report_options.php) for the 2022 American plaice Research Track Assessment 
-<br>
-</details>
-<!-- end American Plaice Climate-Informed Stock Assessment section -->
-
-<!-- start Black Sea Bass Climate-Informed Stock Assessment section -->
-<details>
-<summary><b> Black Sea Bass Climate-Informed Stock Assessment </b></summary>
-<br>
-Black sea bass is a commercially and recreationally important species in the New England and Mid-Atlantic regions that has shown increased productivity in response to warming temperatures. The species has exhibited a northward shift in response to climate that is  captured by divergent state surveys (increases in northern surveys and decreases in the south) but the coastwide survey suggests variability without trend. The single-area stock assessment proposed in 2012 struggled to replicate these divergent survey trends and the model ultimately did not pass review. Subsequent work found that two-area models exhibited improved fit to survey data, and there is interest in further exploring approaches to account for climate-driven species distribution shifts in stock assessments. The NCLIM framework will be leveraged to integrate climate considerations into the research track stock assessment process for black sea bass.
-
-#### Project Goals:
-* Explore assessment models that can account for changing resource distribution and productivity
-* Develop and test candidate assessments using the NCLIM framework in collaboration with the Black Sea Bass Assessment Working Group (WG)
-* Compare candidate and status quo assessments
-* Share findings with WG members and synthesize climate context for WG report (TOR1)
-<br>  
-</details>
-<!-- end Black Sea Bass Climate-Informed Stock Assessment section -->
-
-</details>
 <!-- end NCLIM phase 1 section -->
 
 <hr style="border:2px solid black">
@@ -176,11 +111,6 @@ NCLIM phase 2 focuses on the integrated modeling initiative to meet ocean decisi
   
 </details>
 <!-- end Advance approaches to account for climate change in tactical fisheries management section -->
-
-### Project repositories:
-- [Yellowtail Flounder RT](): Repository for modeling of Yellowtail Flounder in support of 2023-2024 research track stock assessment
-- [Atlantic Herring RT](): Repository for modeling of Atlantic Herring in support of 2023-2025 research track stock assessment
-- [NRCC Assessment Research Steering Committee](): This committee looks at future research track stock assessments and explores new methods and data to develop new or improve existing stock assessments
 
 ## Applications
 
@@ -284,17 +214,104 @@ Ensemble modeling can provide an opportunity for diverse representations of the 
 
 </details>
 <!-- end Ensemble Modeling section -->
+<!-- end NCLIM phase 2 section -->
+
+### NCLIM Project Repositories:
+- [Atlantic Herring RT](): Repository for modeling of Atlantic Herring in support of 2023-2025 research track stock assessment
+- [Groundfish-MSE](https://github.com/Northeast-Climate-Integrated-Modeling/groundfish-MSE): A Management Strategy Evaluation Framework for New England Groundfish
+- [Indicator-Visualizations](https://github.com/Jamie-Behan/Indicator_Visualizations):RShiny user interface for visualizing an integrated ecosystem assessment focused on characterizing the status and trends of the fishery ecosystem in Maine’s coastal waters
+- [NOAA-GFDL MOM6 model](https://github.com/NOAA-GFDL/MOM6-examples): Modular Ocean Model 6 development
+- [NRCC Assessment Research Steering Committee](): This committee looks at future research track stock assessments and explores new methods and data to develop new or improve existing stock assessments
+- [Plaice environmental drivers](https://github.com/Jamie-Behan/AM_Plaice_environmental_drivers): Repository for exploratory modeling of environmental effects on American plaice stock dynamics in support of 2021-2022 research track stock assessment
+- [PlaiceWG2021](https://github.com/ahart1/PlaiceWG2021): Repository for WHAM modeling of American plaice in support of 2021-2022 research track stock assessment
+- [SSRTWG](https://github.com/timjmiller/SSRTWG): Repository for the State-Space Research Track Working Group
+- [WHAM](https://github.com/timjmiller/wham): Woods Hole Assessment Model (WHAM) repository
+- [Yellowtail Flounder RT](): Repository for modeling of Yellowtail Flounder in support of 2023-2024 research track stock assessment
+
+
+## Application in Research Track Stock Assessments
+
+<!-- start Gulf of Maine Cod Climate-Informed Stock Assessment section -->
+<details>
+<summary><b> Gulf of Maine Cod Climate-Informed Stock Assessment </b></summary>
+<br>
+Atlantic cod is an iconic species in the Northeast U.S. that historically supported large domestic and foreign fisheries, but is now considered overfished with overfishing occurring. Difficulties rebuilding the stock may be hindered by recent decreases in productivity and increased mortality attributed to warming ocean temperatures. Incorporating time-varying and temperature-dependent natural mortality has been shown to improve stock assessment diagnostics for this species, but there is room for further exploration of climate links to population dynamics. The NCLIM framework will be leveraged to integrate climate considerations into the research track stock assessment process for Gulf of Maine cod.
+
+#### Project Goals:
+* Explore assessment models that allow for time-varying processes
+* Develop and test candidate assessments using the NCLIM framework in collaboration with the [Research Track Working Group for Atlantic Cod](https://www.fisheries.noaa.gov/event/research-track-working-group-2023-improving-assessments-atlantic-cod)
+* Compare candidate and status quo assessments
+* Share findings with WG members and synthesize climate context for WG report (TOR1)
+<br> 
+</details>
+<!-- end Gulf of Maine Cod Climate-Informed Stock Assessment section -->
+
+<!-- start American Plaice Climate-Informed Stock Assessment Framework section -->
+<details>
+<summary><b> American Plaice Climate-Informed Stock Assessment </b></summary>
+<br>
+American plaice is a commercially important flatfish in the Northeast U.S. and Canada that is considered rebuilt.  In recent years plaice have shifted further offshore and into deeper water, this shift is expected to continue with likely negative effects on the stock as ocean temperatures warm and suitable habitat contracts. Temperature has been shown to influence plaice distribution, depth, growth rate, recruitment, and possibly maturity, while other climate drivers (e.g. NAO, AMO) have been linked to changing recruits per spawner and distribution. Although population dynamics and distribution have clear links to climate dynamics, to date these influences have not been incorporated into stock assessments for plaice nor has this knowledge been used to provide estimates of climate uncertainties that may benefit decision-making processes. The NCLIM framework will be leveraged to integrate climate considerations into the research track stock assessment process for American plaice. 
+
+#### Project Goals:
+* Identify key climate drivers for American plaice and proposed links to stock dynamics
+* Develop and test candidate assessments using the NCLIM framework in collaboration with the American Plaice Assessment Working Group (WG)
+* Compare candidate and status quo assessments (Woods Hole Assessment Model code available [here](https://github.com/ahart1/PlaiceWG2021))
+* Share findings with WG members and synthesize climate context for WG report (TOR1)
+
+Key climate-informed products and working papers:
+* [Working paper: Spatio-temporal dynamics of American plaice (Hippoglossoides platessoides) in US
+2 waters of the northwest Atlantic](https://apps-nefsc.fisheries.noaa.gov/saw/sasi/uploads/WP12_Plaice_VAST-v2.pdf)
+* [Working paper: Ecosystem profile of American plaice](https://apps-nefsc.fisheries.noaa.gov/saw/sasi/uploads/WP14%20Behan%20etal%20Ecosystem%20Profile.pdf)
+* [Working paper: Environmental influences on American Plaice stock dynamics](https://apps-nefsc.fisheries.noaa.gov/saw/sasi/uploads/WP16%20Behan%20_%20Kerr%20Ecosystem%20Drivers.pdf)
+* [Working paper: A state-space assessment of American plaice using the Woods Hole Assessment Model (WHAM)](https://apps-nefsc.fisheries.noaa.gov/saw/sasi/uploads/WP18%20Hart%20etal%20WHAM.pdf)
+* All assessment products and results can be found on the [NEFSC Stock Assessment Support Information portal](https://apps-nefsc.fisheries.noaa.gov/saw/sasi/sasi_report_options.php) for the 2022 American plaice Research Track Assessment 
+<br>
+</details>
+<!-- end American Plaice Climate-Informed Stock Assessment section -->
+
+<!-- start Black Sea Bass Climate-Informed Stock Assessment section -->
+<details>
+<summary><b> Black Sea Bass Climate-Informed Stock Assessment </b></summary>
+<br>
+Black sea bass is a commercially and recreationally important species in the New England and Mid-Atlantic regions that has shown increased productivity in response to warming temperatures. The species has exhibited a northward shift in response to climate that is  captured by divergent state surveys (increases in northern surveys and decreases in the south) but the coastwide survey suggests variability without trend. The single-area stock assessment proposed in 2012 struggled to replicate these divergent survey trends and the model ultimately did not pass review. Subsequent work found that two-area models exhibited improved fit to survey data, and there is interest in further exploring approaches to account for climate-driven species distribution shifts in stock assessments. The NCLIM framework will be leveraged to integrate climate considerations into the research track stock assessment process for black sea bass.
+
+#### Project Goals:
+* Explore assessment models that can account for changing resource distribution and productivity
+* Develop and test candidate assessments using the NCLIM framework in collaboration with the Black Sea Bass Assessment Working Group (WG)
+* Compare candidate and status quo assessments
+* Share findings with WG members and synthesize climate context for WG report (TOR1)
+<br>  
+</details>
+<!-- end Black Sea Bass Climate-Informed Stock Assessment section -->
+
+<!-- start Yellowtail Flounder Climate-Informed Stock Assessment section -->
+<details>
+<summary><b> Yellowtail Flounder Climate-Informed Stock Assessment </b></summary>
+<br>
+Yellowtail flounder (Limanda ferruginea) inhabits continental shelf waters from the Gulf of St. Lawrence to the Mid-Atlantic Bight, managed by the NEFMC for three stocks: CCGOM, SNEMA, and GB. Despite efforts to reduce fishing, stocks remain historically low, possibly due to warming waters affecting recruitment. Vulnerability to climate change varies among stocks, with SNEMA likely to migrate poleward due to its southern location, while CCGOM may move to deeper waters to avoid shallower, warmer regions.  The NCLIM framework will be leveraged to integrate climate considerations into the research track stock assessment process for yellowtail flounder.
+
+#### Project Goals:
+* Explore assessment models that can account for changing resource distribution and productivity
+* Develop and test candidate assessments using the NCLIM framework in collaboration with the Yellowtail Flounder Assessment Working Group (WG)
+* Compare candidate and status quo assessments
+* Share findings with WG members and synthesize climate context for WG report (TOR1)
+<br>  
+</details>
+<!-- end Yellowtail Flounder Climate-Informed Stock Assessment section -->
+
+</details>
+
 
 ## Collaborators and Funding: 
 <!-- start Collaborators section -->
-<summary><b> NCLIM Collaborators </b></summary>
+### NCLIM Collaborators:
   
 ![NCLIMphase2](https://github.com/Northeast-Climate-Integrated-Modeling/.github/assets/62613926/b8af6a3e-06b8-4d67-ab06-745fa13042f3)
 
 <!-- end Collaborators section -->
 
 <!-- start Funding section -->
-<summary><b> Phase 2 Funding </b></summary>
+### Funding:
 <br>
 This work is funded by the NOAA Climate and Fisheries Adaptation Program (CAFA) with additional funding from the New England Fishery Management Council and the Cooperative Institute for the North Atlantic Region (CINAR)  
 <br>
@@ -303,8 +320,6 @@ This work is funded by the NOAA Climate and Fisheries Adaptation Program (CAFA) 
 
 
 <!-- end Funding section -->
-
-<!-- end NCLIM phase 2 section -->
 
 <hr style="border:2px solid black">
 
