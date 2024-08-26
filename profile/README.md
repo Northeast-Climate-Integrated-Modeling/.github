@@ -316,7 +316,7 @@ Yellowtail flounder (Limanda ferruginea) inhabits continental shelf waters from 
 <!-- start Collaborators section -->
 ### NCLIM Collaborators:
   
-![NCLIMphase2](https://github.com/Northeast-Climate-Integrated-Modeling/.github/assets/62613926/b8af6a3e-06b8-4d67-ab06-745fa13042f3)
+![Updated_NCLIM](https://github.com/user-attachments/assets/95e68d7f-45b0-4d83-8fde-b2d3635ccec6)
 
 <!-- end Collaborators section -->
 
