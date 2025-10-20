@@ -235,7 +235,7 @@ Atlantic cod is an iconic species in the Northeast U.S. that historically suppor
 * Explore assessment models that allow for time-varying processes
 * Develop and test candidate assessments using the NCLIM framework in collaboration with the [Research Track Working Group for Atlantic Cod](https://www.fisheries.noaa.gov/event/research-track-working-group-2023-improving-assessments-atlantic-cod)
 * Compare candidate and status quo assessments
-* Share findings with WG members and synthesize climate context for WG report (TOR1)
+* Share findings with WG members and synthesize climate context for [WG report (TOR1)](https://github.com/Northeast-Climate-Integrated-Modeling/Papers_and_Products/blob/main/2023/Behanetal.2023.EcosystemandClimateInfluencesReportChapterfortheAtlanticCodResearchTrack.pdf)
 <br> 
 </details>
 <!-- end Gulf of Maine Cod Climate-Informed Stock Assessment section -->
@@ -254,10 +254,10 @@ American plaice is a commercially important flatfish in the Northeast U.S. and C
 
 Key climate-informed products and working papers:
 * [Working paper: Spatio-temporal dynamics of American plaice (Hippoglossoides platessoides) in US
-2 waters of the northwest Atlantic](https://apps-nefsc.fisheries.noaa.gov/saw/sasi/uploads/WP12_Plaice_VAST-v2.pdf)
-* [Working paper: Ecosystem profile of American plaice](https://apps-nefsc.fisheries.noaa.gov/saw/sasi/uploads/WP14%20Behan%20etal%20Ecosystem%20Profile.pdf)
-* [Working paper: Environmental influences on American Plaice stock dynamics](https://apps-nefsc.fisheries.noaa.gov/saw/sasi/uploads/WP16%20Behan%20_%20Kerr%20Ecosystem%20Drivers.pdf)
-* [Working paper: A state-space assessment of American plaice using the Woods Hole Assessment Model (WHAM)](https://apps-nefsc.fisheries.noaa.gov/saw/sasi/uploads/WP18%20Hart%20etal%20WHAM.pdf)
+2 waters of the northwest Atlantic](https://github.com/Northeast-Climate-Integrated-Modeling/Papers_and_Products/blob/main/2022/Hanselletal.2022.Spatio-temporaldynamicsofAmericanplaice.WP12.AmericanPlaiceRT.pdf)
+* [Working paper: Ecosystem profile of American plaice](https://github.com/Northeast-Climate-Integrated-Modeling/Papers_and_Products/blob/main/2022/Behanetal.2022.EcosystemprofileofAmericanplaice.WorkingPaper14.%20AmericanPlaiceResearchTrack.pdf)
+* [Working paper: Environmental influences on American Plaice stock dynamics](https://github.com/Northeast-Climate-Integrated-Modeling/Papers_and_Products/blob/main/2022/BehanandKerr.2022.EnvironmentalInfluencesonAmericanPlaiceStockDynamics.WP16.AmericanPlaiceRT.pdf)
+* [Working paper: A state-space assessment of American plaice using the Woods Hole Assessment Model (WHAM)](https://github.com/Northeast-Climate-Integrated-Modeling/Papers_and_Products/blob/main/2022/Hartetal.2022.AState-SpaceassessmentAmericanplaiceusingWHAM.%20WP18.%20AmericanPlaiceRT.pdf)
 * All assessment products and results can be found on the [NEFSC Stock Assessment Support Information portal](https://apps-nefsc.fisheries.noaa.gov/saw/sasi/sasi_report_options.php) for the 2022 American plaice Research Track Assessment 
 <br>
 </details>
